@@ -1,0 +1,95 @@
+title: Privacy Policy Directory
+baseURL: "https://privacypolicy.directory/"
+theme: PaperModX
+
+enableRobotsTXT: true
+enableEmoji: true
+
+params:
+  title: Privacy Policy Directory
+  description: ""
+  author: PPD
+  images:
+    - cover.png
+  favicon: favicon.ico
+  #logo:
+  #  icon: images/logo.svg
+  DateFormat: "January 2, 2006"
+  useCustomAnalytics: false
+  custom_css: "css/custom.css"
+  
+  
+  profileMode:
+    enabled: false
+    #title: "" # optional default will be site title
+    #subtitle: "" 
+    #imageUrl: "https://investorplace.com/wp-content/uploads/2014/05/DuckDuckGo-Logo.jpg" # optional
+    #imageTitle: "" # optional
+    #imageWidth: 120 # custom size
+    #imageHeight: 120 # custom size
+    #buttons:
+      #- name: Blog
+      #  url: "http://localhost:1313/blog/"
+        
+      #- name: Contact
+      #  url: "http://localhost:1313/contact/"
+
+
+  # theme params
+  disableScrollToTop: false
+  DisableLanguageSwitch: false
+  ShowToc: true
+  TocOpen: true
+  TocSide: 'right'
+  EnableInstantClick: false
+  EnableImageZoom: true
+  ShowShareButtons: false
+  ShowReadingTime: true
+  ShowWordCount: false
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+  Email: contact@coreyst.one
+
+  socialIcons:
+    - name: github-simple
+      url: "https://github.com/coreystone/privacy-policy-directory-data"
+    #- name: email
+    #  url: "mailto:email@gmail.com"
+    #- name: linkedin-simple
+    #  url: "https://linkedin.com/in/coreyjs"
+
+
+  homeInfoParams:
+    Title: "Welcome!"
+    Content: |
+      You've reached the landing page. To see the rest of the website, please use the page buttons above or [click here to go **`Home`**](localhost:1313/home/).
+
+
+menu:
+  main:
+    - name: Home
+      url: /Home/
+      weight: 1
+    - name: Stats
+      url: /stats/
+      weight: 2
+    - name: About
+      url: /about/
+      weight: 3
+
+languages:
+  en:
+    languageName: "English"
+
+markup:
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 1
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: dracula
+    lineNos: false
+    noClasses: false
