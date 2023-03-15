@@ -11,9 +11,9 @@ Welcome to `Privacy Policy Directory` -- an open resource dedicated to providing
 
 * By default, the master directory table of all companies is displayed
 	* You can hide this view and sort by categories instead by clicking on the arrow to collapse or expand the tables
-	* A table of contents is also provided to skip to the [Categories](http://localhost:1313/home/#categories) section
-* To learn more about this directory and what each field means, see the [**`About`**](http://localhost:1313/about/) page
-* For an overview of all the companies on this list and other insights, see the [**`Stats`**](http://localhost:1313/stats/) page
+	* A table of contents is also provided to skip to the [Categories](https://privacypolicy.directory/home/#categories) section
+* To learn more about this directory and what each field means, see the [**`About`**](https://privacypolicy.directory/about/) page
+* For an overview of all the companies on this list and other insights, see the [**`Stats`**](https://privacypolicy.directory/stats/) page
 
 ---
 

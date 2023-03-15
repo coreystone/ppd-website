@@ -23,7 +23,7 @@ params:
     enabled: false
     #title: "" # optional default will be site title
     #subtitle: "" 
-    #imageUrl: "https://investorplace.com/wp-content/uploads/2014/05/DuckDuckGo-Logo.jpg" # optional
+    #imageUrl: ""
     #imageTitle: "" # optional
     #imageWidth: 120 # custom size
     #imageHeight: 120 # custom size
