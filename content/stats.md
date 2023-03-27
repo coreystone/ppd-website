@@ -1,6 +1,6 @@
 ---
 author: Corey Stone
-date: "2023-03-09T19:01:07-05:00"
+date: "2023-03-24T19:01:07-05:00"
 draft: false
 hidemeta: true
 showToc: true
@@ -10,18 +10,19 @@ title: Stats
 ### Companies
 <details open><summary><i>click to collapse/expand company statistics</i></summary>
 
-* Total count: 401
+* Total count: 528
 	* Auto & Gas: 19
-	* Crypto: 9
-	* Data Brokers: 142
+	* Crypto: 11
+	* Data Brokers: 178
 	* Education: 9
-	* Entertainment: 35
-	* Finance & Insurance: 31
-	* Food: 50
-	* Gaming: 26
-	* Phone & Internet: 10
-	* Shopping: 29
+	* Entertainment: 38
+	* Finance & Insurance: 47
+	* Food: 56
+	* Gaming: 31
+	* Phone & Internet: 16
+	* Shopping: 48
 	* Social Media: 17
+    * Software: 26
 	* VPNs: 12
 </details>
 
